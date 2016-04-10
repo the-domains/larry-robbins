@@ -1,0 +1,28 @@
+name: Larry Robbins
+favicon: null
+layout_spectrum: 0.5056302431039512
+typography_spectrum: 0.4653988101053983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17609239742159843
+  lightness: 0.9662979869171977
+  saturation: 0.3172757290303707
+  rhythmicContrast: 0.47702485090121627
+purpose: []
